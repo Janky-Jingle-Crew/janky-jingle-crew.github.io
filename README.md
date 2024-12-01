@@ -9,17 +9,19 @@ We are the janky jingle crew, a group of makers who come together every year to 
 
 ## Previous years
 
-### 2024: To be announced!
+### 2024: [North Pole Circuit](https://janky-jingle-crew.com/NorthPoleCircuit/)
+
+TBA
 
 ### 2023: [ch32 fireplace](https://github.com/johanwheeler/ch32-fireplace)
 
-https://github.com/johanwheeler/ch32-fireplace/assets/45564940/a2e65534-c451-412c-9a83-9337bf3cca4e
+TODO: Youtube video embedding like 2021
 
 See also the [Hackaday article](https://hackaday.com/2024/01/02/an-animated-led-fireplace-powered-by-the-ch32v003/)
 
 ### 2022: [Christmas Banana Synth](https://github.com/adaand00/christmas-banana-synth/)
 
-https://github.com/adaand00/christmas-banana-synth/assets/45564940/3717fd15-4f71-4382-aa24-0abd6eaa9e98
+TODO: Youtube video embedding like 2021
 
 ### 2021: [Reindeer Volume Meter](https://github.com/CASE-Association/christmas-cards/tree/main/2021/opamp_vu_meter) (with CASE association)
 
