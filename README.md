@@ -14,6 +14,8 @@ https://github.com/adaand00/christmas-banana-synth/assets/45564940/3717fd15-4f71
 
 https://github.com/user-attachments/assets/1701a059-832f-4083-9e6f-40495b9f99ba
 
+<iframe width="600" height="400" src="https://www.youtube.com/embed/hOMsYjUGouI" title="Reindeeer Volume Meter - CASE 2021 christmas card" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+
 ## Team members
 
 [Daniel Quach](https://github.com/Muoshy/) 
