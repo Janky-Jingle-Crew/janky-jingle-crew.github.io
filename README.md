@@ -1,7 +1,8 @@
 {% comment %}
 # Go to [janky-jingle-crew.com](Janky-jingle-crew.com)
 The website is generated from this markdown file, using Jekyll and GitHub pages. 
-{% comment %}
+
+{% endcomment %}
 
 ## About
 We are the janky jingle crew, a group of makers who come together every year to make cool Christmas cards, which we give out to family and friends. This originally started when we were part of the [CASE association](caselabbet.se) at Chalmers University of Technology in Gothenburg, Sweden, and it has since become a tradition.   
