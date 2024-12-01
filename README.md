@@ -1,11 +1,11 @@
 {% comment %}
-# Go to [janky-jingle-crew.com](Janky-jingle-crew.com)
+# Go to [janky-jingle-crew.com](https://Janky-jingle-crew.com)
 The website is generated from this markdown file, using Jekyll and GitHub pages. 
 
 {% endcomment %}
 
 ## About
-We are the janky jingle crew, a group of makers who come together every year to make cool Christmas cards, which we give out to family and friends. This originally started when we were part of the [CASE association](caselabbet.se) at Chalmers University of Technology in Gothenburg, Sweden, and it has since become a tradition.   
+We are the janky jingle crew, a group of makers who come together every year to make cool Christmas cards, which we give out to family and friends. This originally started when we were part of the [CASE association](https://caselabbet.se) at Chalmers University of Technology in Gothenburg, Sweden, and it has since become a tradition.   
 
 ## Previous years
 
@@ -28,6 +28,6 @@ https://github.com/adaand00/christmas-banana-synth/assets/45564940/3717fd15-4f71
 ## Team members
 
  - [Daniel Quach](https://github.com/Muoshy/) 
- - [Adam Anderson](adamexperiments.com)
+ - [Adam Anderson](https://adamexperiments.com)
  - [Johan Wheeler](https://github.com/johanwheeler/)
  - [Gustav Abrahamsson](https://gustavabrahamsson.github.io/)
