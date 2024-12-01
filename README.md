@@ -27,7 +27,7 @@ https://github.com/adaand00/christmas-banana-synth/assets/45564940/3717fd15-4f71
 
 ## Team members
 
-[Daniel Quach](https://github.com/Muoshy/) 
-[Adam Anderson](adamexperiments.com)
-[Johan Wheeler](https://github.com/johanwheeler/)
-[Gustav Abrahamsson](https://gustavabrahamsson.github.io/)
+ - [Daniel Quach](https://github.com/Muoshy/) 
+ - [Adam Anderson](adamexperiments.com)
+ - [Johan Wheeler](https://github.com/johanwheeler/)
+ - [Gustav Abrahamsson](https://gustavabrahamsson.github.io/)
