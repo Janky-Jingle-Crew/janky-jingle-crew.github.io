@@ -1,6 +1,7 @@
-$light: #FFE1C2;
+$light: #FFEDDB;
 $yellow: #EDAE3A;
-$red: #BE362E;
+$red: #982B26;
+$darkred: #772822;
 $green: #303E24;
 
 /* http://meyerweb.com/eric/tools/css/reset/
@@ -74,7 +75,7 @@ header {
   margin: 0 auto;
   max-width: 600px;
   top: 38px;
-  background-color: $green;
+  background-color: $darkred;
 }
 
 header span.ribbon-inner {
@@ -89,7 +90,7 @@ header h1 {
   font-weight: 800;
   font-style: normal;
   text-transform: uppercase;
-  color: $red;
+  color: $light;
   text-align: center;
   line-height:1;
   padding: 14px 20px 0;
@@ -247,7 +248,7 @@ body {
   font: normal normal 15px/1.5 Georgia, Palatino,” Palatino Linotype”, Times, “Times New Roman”, serif;
   color: $green;
   -webkit-font-smoothing: antialiased;
-  background-image: url("assets/img/pattern.svg");
+  background-image: url(../assets/img/pattern.svg);
 }
 
 a, a:hover {
