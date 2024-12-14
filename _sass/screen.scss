@@ -200,7 +200,7 @@ footer span.ribbon-outer {
 footer span.ribbon-inner {
   position: relative;
   display: block;
-  background-color: $green;
+  background-color: $darkred;
   padding: 1px;
   z-index: 1;
 }
@@ -248,7 +248,7 @@ body {
   font: normal normal 15px/1.5 Georgia, Palatino,” Palatino Linotype”, Times, “Times New Roman”, serif;
   color: $green;
   -webkit-font-smoothing: antialiased;
-  background-image: url(../assets/img/pattern.svg);
+  background-image: url(/assets/img/pattern.svg);
 }
 
 a, a:hover {
@@ -409,7 +409,7 @@ dd p:first-child {
 
 .header-level-1 {
   font-size: 3em;
-  border-bottom: .2em double #d3ccc1;
+  border-bottom: .2em double $green;
   color: $red;
   text-align: center;
   font-style: italic;
@@ -422,7 +422,7 @@ dd p:first-child {
   font-size: 2em;
   color: $red;
   margin: .95em 0 .5em;
-  border-bottom: .1em solid #D3CCC1;
+  border-bottom: .1em solid $darkred;
   line-height: 1.2;
   padding-bottom: 10px
 }
