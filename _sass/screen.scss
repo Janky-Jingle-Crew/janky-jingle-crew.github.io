@@ -112,9 +112,11 @@ section#main_content {
 /* footer */
 
 footer {
-  margin: 10px auto;
+  margin: 0 auto;
   max-width: 600px;
   z-index: 2;
+  direction: rtl;
+  padding-bottom: 50px;
 }
 
 span.stamp {
@@ -197,11 +199,7 @@ img {
 }
 
 hr {
-  border: none;
-  outline: none;
-  height: 18px;
-  background: transparent url('../images/hr.jpg') center center repeat-x;
-  margin: 0 0 20px;
+  color: $red;
 }
 
 code {
@@ -280,6 +278,10 @@ dd p:first-child {
   margin-top: 0;
 }
 
+iframe {
+  border-radius: 10px;
+}
+
 /* Content based headers */
 
 #main_content > .header-level-1:first-child,
@@ -291,44 +293,44 @@ dd p:first-child {
   margin-top: 0;
 }
 
-.header-level-1 {
+h1 {
   font-size: 3em;
   border-bottom: .2em double $green;
   color: $red;
-  text-align: center;
-  font-style: italic;
+  font-family: "brush script MT", cursive;
   margin: 1.1em 0 .38em;
   line-height: 1.2;
   padding-bottom: 10px
 }
 
-.header-level-2 {
+h2 {
   font-size: 2em;
   color: $red;
   margin: .95em 0 .5em;
   border-bottom: .1em solid $darkred;
   line-height: 1.2;
-  padding-bottom: 10px
+  padding-bottom: 10px;
+  font-style: italic;
 }
 
-.header-level-3 {
+h3 {
   margin: 20px 0 10px;
   font-size: 1.45em;
 }
 
-.header-level-4 {
+h4 {
   margin: .6em 0;
   font-size: 1.2em;
   color: $yellow;
 }
 
-.header-level-5 {
+h5 {
   margin: .7em 0;
   font-size: 1em;
   color: $yellow;
 }
 
-.header-level-6 {
+h6 {
   margin: .8em 0;
   font-size: .85em;
   font-style: italic;
