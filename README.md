@@ -5,7 +5,7 @@ The website is generated from this markdown file, using Jekyll and GitHub pages.
 {% endcomment %}
 
 ## About
-We are the janky jingle crew, a group of makers who come together every year to make cool Christmas cards, which we give out to family and friends. This originally started when we were part of the [CASE association](https://caselabbet.se) at Chalmers University of Technology in Gothenburg, Sweden, and it has since become a tradition.   
+We are the Janky Jingle Crew, a group of makers who come together every year to make cool Christmas cards, which we give out to family and friends. This originally started when we were part of the [CASE association](https://caselabbet.se) at Chalmers University of Technology in Gothenburg, Sweden, and it has since become a tradition.   
 
 ## Previous years
 
@@ -29,7 +29,7 @@ TODO: Youtube video embedding like 2021
 
 ## Team members
 
- - [Daniel Quach](https://github.com/Muoshy/) 
- - [Adam Anderson](https://adamexperiments.com)
- - [Johan Wheeler](https://github.com/johanwheeler/)
- - [Gustav Abrahamsson](https://gustavabrahamsson.github.io/)
+ - [Daniel Quach](https://github.com/Muoshy/) (2021-)
+ - [Adam Anderson](https://adamexperiments.com) (2021-)
+ - [Johan Wheeler](https://github.com/johanwheeler/) (2023-)
+ - [Gustav Abrahamsson](https://gustavabrahamsson.github.io/) (2024-)
