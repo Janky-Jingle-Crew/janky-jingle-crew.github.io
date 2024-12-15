@@ -150,7 +150,8 @@ a:hover {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+  font-family: Georgia, Palatino,” Palatino Linotype”, Times, “Times New Roman”, serif;
+  font-style: italic;
   font-weight: bold;
 }
 
@@ -178,8 +179,8 @@ ul {
 }
 
 ul li {
-  padding-left: 10px;
-  background: transparent url(/assets/img/chevron.png) left 6px no-repeat;
+  padding-left: 12px;
+  background: transparent url(/assets/img/chevron.png) left 8px no-repeat;
 }
 
 blockquote {
@@ -191,10 +192,8 @@ blockquote {
 }
 
 img {
-  -webkit-box-shadow: 0px 2px 0px #bdb6ad;
-  -moz-box-shadow: 0px 2px 0px #bdb6ad;
-  box-shadow: 0px 2px 0px #bdb6ad;
-  border: 2px solid #fff6e9;
+  box-shadow: 5px 5px 5px #363636;
+  border-radius: 10px;
   max-width: 502px;
 }
 
@@ -223,7 +222,6 @@ pre code {
 }
 
 table {
-  background: $yellow;
   display: table;
   width: 100%;
   border-collapse: separate;
@@ -323,13 +321,13 @@ iframe {
 #main_content > h4 {
   margin: .6em 0;
   font-size: 1.2em;
-  color: $yellow;
+  color: $darkred;
 }
 
 #main_content > h5 {
   margin: .7em 0;
   font-size: 1em;
-  color: $yellow;
+  color: $darkred;
 }
 
 #main_content > h6 {
