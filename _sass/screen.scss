@@ -62,8 +62,8 @@ header, footer, section {
 
 div.shell {
   display: block;
-  width: 670px;
-  margin: 40px auto;
+  max-width: 800px;
+  margin: 0 auto;
   background-color: $light;
   box-shadow: rgba(0, 0, 0, 0.7) 0px 10px 20px, rgba(0, 0, 0, 0.10) 0px 6px 6px;
   border-radius: 10px;
@@ -131,10 +131,11 @@ span.stamp {
 /* content */
 
 body {
-  font: normal normal 15px/1.5 Georgia, Palatino,” Palatino Linotype”, Times, “Times New Roman”, serif;
+  font: normal normal 16px/1.5 Georgia, Palatino,” Palatino Linotype”, Times, “Times New Roman”, serif;
   color: $green;
   -webkit-font-smoothing: antialiased;
   background-image: url(/assets/img/pattern.svg);
+  padding: 60px;
 }
 
 a, a:hover {
@@ -194,7 +195,8 @@ blockquote {
 img {
   box-shadow: 5px 5px 5px #363636;
   border-radius: 10px;
-  max-width: 502px;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 hr {
