@@ -111,9 +111,19 @@ section#main_content {
 
 /* footer */
 
+footer {
+  margin: 10px auto;
+  max-width: 600px;
+  z-index: 2;
+}
+
 span.stamp {
-  width: 200px;
   background-image: url(/assets/img/stamp.png);
+  background-size: contain;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  margin: 20px;
 }
 
 /* content */
