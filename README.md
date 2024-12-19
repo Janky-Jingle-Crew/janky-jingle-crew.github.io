@@ -11,17 +11,15 @@ We are the Janky Jingle Crew, a group of makers who come together every year to 
 
 ### 2024: [North Pole Circuit](https://janky-jingle-crew.com/NorthPoleCircuit/)
 
-TBA
-
 ### 2023: [ch32 fireplace](https://github.com/johanwheeler/ch32-fireplace)
 
-TODO: Youtube video embedding like 2021
+<iframe width="500" height="281" src="https://www.youtube.com/embed/UVHL_V8pm24" title="CH32 Fireplace - 2023 Christmas card" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 
 See also the [Hackaday article](https://hackaday.com/2024/01/02/an-animated-led-fireplace-powered-by-the-ch32v003/)
 
 ### 2022: [Christmas Banana Synth](https://github.com/adaand00/christmas-banana-synth/)
 
-TODO: Youtube video embedding like 2021
+<iframe width="500" height="281" src="https://www.youtube.com/embed/LHKJkic0vw4" title="Christmas Banana Synth - 2022 Christmas card" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 
 ### 2021: [Reindeer Volume Meter](https://github.com/CASE-Association/christmas-cards/tree/main/2021/opamp_vu_meter) (with CASE association)
 
