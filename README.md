@@ -25,6 +25,8 @@ See also the [Hackaday article](https://hackaday.com/2024/01/02/an-animated-led-
 
 <iframe width="500" height="281" src="https://www.youtube.com/embed/hOMsYjUGouI" title="Reindeeer Volume Meter - CASE 2021 christmas card" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 
+[![Reindeer Volume Meter](https://img.youtube.com/vi/hOMsYjUGouI/0.jpg)](https://www.youtube.com/watch?v=hOMsYjUGouI)
+
 ## Team members
 
  - [Daniel Quach](https://github.com/Muoshy/) (2021-)
