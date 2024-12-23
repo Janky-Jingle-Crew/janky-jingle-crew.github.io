@@ -13,6 +13,8 @@ We are the Janky Jingle Crew, a group of makers who come together every year to 
 
 [![North Pole Circuit](https://img.youtube.com/vi/rN7HYXmgxzk/0.jpg)](https://www.youtube.com/watch?v=rN7HYXmgxzk)
 
+See also: [Hackaday article](https://hackaday.com/?p=739494), [hackster.io article](https://www.hackster.io/news/racing-toward-christmas-4728aa6665af)
+
 ### 2023: [ch32 fireplace](https://github.com/johanwheeler/ch32-fireplace)
 
 [![ch32 fireplace](https://img.youtube.com/vi/UVHL_V8pm24/0.jpg)](https://www.youtube.com/watch?v=UVHL_V8pm24)
