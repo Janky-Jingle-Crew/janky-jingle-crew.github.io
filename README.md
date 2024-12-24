@@ -13,11 +13,15 @@ We are the Janky Jingle Crew, a group of makers who come together every year to 
 
 [![North Pole Circuit](https://img.youtube.com/vi/rN7HYXmgxzk/0.jpg)](https://www.youtube.com/watch?v=rN7HYXmgxzk)
 
+(Press thumbnail to watch demo video)
+
 See also: [Hackaday article](https://hackaday.com/?p=739494), [hackster.io article](https://www.hackster.io/news/racing-toward-christmas-4728aa6665af)
 
 ### 2023: [ch32 fireplace](https://github.com/johanwheeler/ch32-fireplace)
 
 [![ch32 fireplace](https://img.youtube.com/vi/UVHL_V8pm24/0.jpg)](https://www.youtube.com/watch?v=UVHL_V8pm24)
+
+(Press thumbnail to watch demo video)
 
 See also the [Hackaday article](https://hackaday.com/2024/01/02/an-animated-led-fireplace-powered-by-the-ch32v003/)
 
@@ -25,9 +29,13 @@ See also the [Hackaday article](https://hackaday.com/2024/01/02/an-animated-led-
 
 [![Christmas banana synth](https://img.youtube.com/vi/LHKJkic0vw4/0.jpg)](https://www.youtube.com/watch?v=LHKJkic0vw4)
 
+(Press thumbnail to watch demo video)
+
 ### 2021: [Reindeer Volume Meter](https://github.com/CASE-Association/christmas-cards/tree/main/2021/opamp_vu_meter) (with CASE association)
 
 [![Reindeer Volume Meter](https://img.youtube.com/vi/hOMsYjUGouI/0.jpg)](https://www.youtube.com/watch?v=hOMsYjUGouI)
+
+(Press thumbnail to watch demo video)
 
 ## Team members
 
